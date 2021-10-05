@@ -1,0 +1,6 @@
+    Total addresses: 8000000000
+Erroneous addresses: 0
+   Unique addresses: 1000000000
+File read time: 799257 ms
+ Counting time: 516 ms
+Memory used: 2849577120 bytes
